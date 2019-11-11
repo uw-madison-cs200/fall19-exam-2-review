@@ -1,10 +1,10 @@
 /**
- * - Sharing references between 2D arrays
- * - Changing the contents in a method
- * - Creation and indexing of multidimensional arrays
- * - Drawing references as examples?
- * 
- * @author Turner Valle
+ * - Differences between Arrays and ArrayLists
+ * - Changing in a method
+ * - Multi-dimensional ArrayLists / Arrays of ArrayLists / ArrayLists of Arrays
+ * - Drawing on board
+ *
+ * @author T.J. Wilder
  *
  */
 public class ArrayLists {
