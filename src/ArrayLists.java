@@ -39,7 +39,7 @@ public class ArrayLists {
         // System.out.println(stringVersion);
         /**/
 
-        //* removeDuplicates method
+        /* removeDuplicates method
         nums.add(5);
         nums.add(new Integer(6));
         nums.add(5);
